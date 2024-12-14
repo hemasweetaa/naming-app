@@ -1,1 +1,1 @@
-# naming-app
+this is a namer app
